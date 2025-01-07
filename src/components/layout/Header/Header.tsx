@@ -12,14 +12,14 @@ const Header = () => {
   return (
     <>
       {/* Navbar start */}
-      <nav className="bg-blue-500 p-4">
+      <nav className="bg-blue-600 p-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center flex-wrap">
           {/* Logo and Name */}
           <div className="flex items-center flex-shrink-0">
             <a href="index.html">
               <img src="assest/images/logoo.png" alt="Logo" className="h-14 mr-2" />
             </a>
-            <span className="text-white text-lg font-semibold">Brand</span>
+            <span className="text-white text-lg font-semibold"></span>
           </div>
 
           {/* Hamburger Icon */}
